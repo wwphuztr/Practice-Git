@@ -2,3 +2,7 @@ dep
 xau 
 gay
 gai dep
+truong 
+thi 
+thu 
+trinh 
